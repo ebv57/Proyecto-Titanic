@@ -1,0 +1,10 @@
+streamlit
+numpy 
+matplotlib
+pandas
+seaborn
+plotly.express
+plotly.graph_objects
+from PIL import Image
+base64
+io
